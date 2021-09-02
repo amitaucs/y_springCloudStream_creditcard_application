@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.d2d</groupId>
-	<artifactId>creditCard</artifactId>
+	<artifactId>creditCardApplication</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>creditCardApplication</name>
 	<description>Credit card application service</description>
