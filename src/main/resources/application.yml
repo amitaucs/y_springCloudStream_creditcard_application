@@ -21,8 +21,3 @@ spring:
         publishNewCreditCardEvent-out-0:
           destination: CreditCardApplication
           group: creditcard
-  rabbitmq:
-    host: ${RMQ_HOSTNAME:localhost}
-    port: ${RMQ_PORT:5672}
-    username: ${RMQ_USERNAME:guest}
-    password: ${RMQ_PASSWORD:guest}
